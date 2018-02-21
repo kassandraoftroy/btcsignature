@@ -18,7 +18,9 @@ If the private key matches the address for all transaction inputs the script wil
 
 Multisig and other functionalities are soon to come in future versions.
 
-Security is obviously the main concern in signing transactions. This does not claim to be the highest security option (see hardware wallets and other
+Security is obviously the main concern in signing transactions. This does not claim to be the highest security option (see hardware wallets). This is an easy to use medium security option. The private key only touches the command line in an offline setting and quickly disappears - the key cannot (as far as we know) be retreived from the terminal history or by any other means. 
+
+comments and concerns welcome: sendbtcsimply@protonmail.com
 
 
 
